@@ -17,5 +17,6 @@
 </div>
 </br>
 <div>
-<img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="330" height="200" />
+<img src="<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>" width="330" height="200" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="330" height="200" />
 </div>
