@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Olá!! Pode me chamar de Josu <img src="https://media.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif" align="right" width="120" height="90" />
+## Olá!! Pode me chamar de Josu <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" align="right" width="120" height="90" />
 
  <div>
   <a href="https://github.com/jcarloscody">
