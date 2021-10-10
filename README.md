@@ -14,9 +14,9 @@
  <!-- <a href="https://www.instagram.com/_eu.neto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
   <a href = "mailto:josuecarlosos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josuecarlosdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 </div>
 </br>
 <div>
-<img src="<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>" width="330" height="200" />
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"  />
+<img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="330" height="200" />
 </div>
