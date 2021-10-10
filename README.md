@@ -3,9 +3,9 @@
 ## Olá!! Pode me chamar de Josu <img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
 
  <div>
-  <a href="https://github.com/EuNetu">
-  <img  aling="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=EuNetu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNetu&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/jcarloscody">
+  <img  aling="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=jcarloscody&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarloscody&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ## 
