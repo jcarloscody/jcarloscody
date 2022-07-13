@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 ## Hello!! My name is Josué! <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" align="right" width="120" height="90" />
 
-##
+
 
 
  <div>
@@ -11,7 +11,7 @@
   <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarloscody&layout=compact&langs_count=7&theme=radical"/>
 </div>-->
   
-  ## 
+
 
 <div style="display: inline_block"> 
  <!-- <a href="https://www.instagram.com/_eu.neto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
