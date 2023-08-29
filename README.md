@@ -13,7 +13,7 @@
 
 <h1>readme em construção</h1>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/fYZj3r5osKAXCHSSNa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-fYZj3r5osKAXCHSSNa">via GIPHY</a></p>
+https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-star-wars-27.gif
 
 <a href="https://www.linkedin.com/in/josuecarlosdasilva/" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
