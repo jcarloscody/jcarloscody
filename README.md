@@ -1,7 +1,7 @@
 ### Olá, Caros Amigos! 🌍
 
 
-<img align="right" src="https://img.freepik.com/fotos-premium/renderizacao-3d-do-mapa-mundi-digital_242662-652.jpg" border="2" width="350px" height="350px" alt="ave de rapina de fone de ouvido, em frente a um computador"/>
+<img align="right" src="https://img.freepik.com/fotos-premium/renderizacao-3d-do-mapa-mundi-digital_242662-652.jpg" border="2" width="400px" height="350px" alt="ave de rapina de fone de ouvido, em frente a um computador"/>
 
 <ul>
     <li>👋 Meu nome é <b style="background-color:rgba(0, 0, 0, 0.5);">Josué Carlos</b>. Sou entusiasta da tecnológia, 👨🏽‍💻  geopolítica 👮🏽, filosofia  e todas coisas que traz uma reflexão profunda sobre a vida e sua matrix. </li>
