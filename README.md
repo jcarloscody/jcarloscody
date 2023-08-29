@@ -13,6 +13,7 @@
 
 <h1>readme em construção</h1>
 
+<iframe src="https://giphy.com/embed/fYZj3r5osKAXCHSSNa" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-fYZj3r5osKAXCHSSNa">via GIPHY</a></p>
 
 <a href="https://www.linkedin.com/in/josuecarlosdasilva/" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
