@@ -14,7 +14,7 @@
 <h1>readme em construção</h1>
 
 
-<a href="https://www.linkedin.com/in//" alt="linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/josuecarlosdasilva/" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
 </a>
 <a href="https://github.com/jcarloscody" alt="github" target="blank">
