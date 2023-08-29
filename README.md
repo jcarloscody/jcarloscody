@@ -13,7 +13,8 @@
 
 <h1>readme em construção</h1>
 
-https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-star-wars-27.gif
+<img align="right" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-star-wars-27.gif" border="2" width="260px" height="260px" alt="ave de rapina de fone de ouvido, em frente a um computador"/>
+
 
 <a href="https://www.linkedin.com/in/josuecarlosdasilva/" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=11c6c7">
