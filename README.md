@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "jcarloscody";
 
 class SobreMim extends Desenvolvedor {
@@ -6,4 +7,4 @@ class SobreMim extends Desenvolvedor {
   trabalho = "GFT";
   local = "Remoto";
 }
-
+```
